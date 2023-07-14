@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\05_operadores\operadores_12\bin\Debug\net7.0\operadores_11.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\05_operadores\operadores_12\bin\Debug\net7.0\operadores_11.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\05_operadores\operadores_12\bin\Debug\net7.0\operadores_11.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\05_operadores\operadores_12\bin\Debug\net7.0\operadores_11.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\05_operadores\operadores_12\bin\Debug\net7.0\operadores_11.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\05_operadores\operadores_12\obj\Debug\net7.0\operadores_11.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\05_operadores\operadores_12\obj\Debug\net7.0\operadores_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\05_operadores\operadores_12\obj\Debug\net7.0\operadores_11.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\05_operadores\operadores_12\obj\Debug\net7.0\operadores_11.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\05_operadores\operadores_12\obj\Debug\net7.0\operadores_11.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\05_operadores\operadores_12\obj\Debug\net7.0\operadores_11.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\05_operadores\operadores_12\obj\Debug\net7.0\refint\operadores_11.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\05_operadores\operadores_12\obj\Debug\net7.0\operadores_11.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\05_operadores\operadores_12\obj\Debug\net7.0\operadores_11.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\05_operadores\operadores_12\obj\Debug\net7.0\ref\operadores_11.dll

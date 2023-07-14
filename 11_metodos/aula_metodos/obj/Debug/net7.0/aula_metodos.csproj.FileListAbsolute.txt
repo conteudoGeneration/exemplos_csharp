@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\11_metodos\aula_metodos\bin\Debug\net7.0\aula_metodos.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\11_metodos\aula_metodos\bin\Debug\net7.0\aula_metodos.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\11_metodos\aula_metodos\bin\Debug\net7.0\aula_metodos.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\11_metodos\aula_metodos\bin\Debug\net7.0\aula_metodos.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\11_metodos\aula_metodos\bin\Debug\net7.0\aula_metodos.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\11_metodos\aula_metodos\obj\Debug\net7.0\aula_metodos.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\11_metodos\aula_metodos\obj\Debug\net7.0\aula_metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\11_metodos\aula_metodos\obj\Debug\net7.0\aula_metodos.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\11_metodos\aula_metodos\obj\Debug\net7.0\aula_metodos.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\11_metodos\aula_metodos\obj\Debug\net7.0\aula_metodos.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\11_metodos\aula_metodos\obj\Debug\net7.0\aula_metodos.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\11_metodos\aula_metodos\obj\Debug\net7.0\refint\aula_metodos.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\11_metodos\aula_metodos\obj\Debug\net7.0\aula_metodos.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\11_metodos\aula_metodos\obj\Debug\net7.0\aula_metodos.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\11_metodos\aula_metodos\obj\Debug\net7.0\ref\aula_metodos.dll

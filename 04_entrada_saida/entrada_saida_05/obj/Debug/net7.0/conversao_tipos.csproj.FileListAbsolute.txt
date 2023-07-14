@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\conversao_tipos\bin\Debug\net7.0\conversao_tipos.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\conversao_tipos\bin\Debug\net7.0\conversao_tipos.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\conversao_tipos\bin\Debug\net7.0\conversao_tipos.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\conversao_tipos\bin\Debug\net7.0\conversao_tipos.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\conversao_tipos\bin\Debug\net7.0\conversao_tipos.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\conversao_tipos\obj\Debug\net7.0\conversao_tipos.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\conversao_tipos\obj\Debug\net7.0\conversao_tipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\conversao_tipos\obj\Debug\net7.0\conversao_tipos.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\conversao_tipos\obj\Debug\net7.0\conversao_tipos.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\conversao_tipos\obj\Debug\net7.0\conversao_tipos.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\conversao_tipos\obj\Debug\net7.0\conversao_tipos.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\conversao_tipos\obj\Debug\net7.0\refint\conversao_tipos.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\conversao_tipos\obj\Debug\net7.0\conversao_tipos.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\conversao_tipos\obj\Debug\net7.0\conversao_tipos.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\conversao_tipos\obj\Debug\net7.0\ref\conversao_tipos.dll

@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\exceptions_02\bin\Debug\net7.0\exceptions_02.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\exceptions_02\bin\Debug\net7.0\exceptions_02.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\exceptions_02\bin\Debug\net7.0\exceptions_02.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\exceptions_02\bin\Debug\net7.0\exceptions_02.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\exceptions_02\bin\Debug\net7.0\exceptions_02.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\exceptions_02\obj\Debug\net7.0\exceptions_02.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\exceptions_02\obj\Debug\net7.0\exceptions_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\exceptions_02\obj\Debug\net7.0\exceptions_02.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\exceptions_02\obj\Debug\net7.0\exceptions_02.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\exceptions_02\obj\Debug\net7.0\exceptions_02.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\exceptions_02\obj\Debug\net7.0\exceptions_02.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\exceptions_02\obj\Debug\net7.0\refint\exceptions_02.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\exceptions_02\obj\Debug\net7.0\exceptions_02.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\exceptions_02\obj\Debug\net7.0\exceptions_02.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\exceptions_02\obj\Debug\net7.0\ref\exceptions_02.dll

@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\07_laco_repeticao\repeticao_05\bin\Debug\net7.0\repeticao_05.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\07_laco_repeticao\repeticao_05\bin\Debug\net7.0\repeticao_05.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\07_laco_repeticao\repeticao_05\bin\Debug\net7.0\repeticao_05.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\07_laco_repeticao\repeticao_05\bin\Debug\net7.0\repeticao_05.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\07_laco_repeticao\repeticao_05\bin\Debug\net7.0\repeticao_05.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\07_laco_repeticao\repeticao_05\obj\Debug\net7.0\repeticao_05.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\07_laco_repeticao\repeticao_05\obj\Debug\net7.0\repeticao_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\07_laco_repeticao\repeticao_05\obj\Debug\net7.0\repeticao_05.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\07_laco_repeticao\repeticao_05\obj\Debug\net7.0\repeticao_05.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\07_laco_repeticao\repeticao_05\obj\Debug\net7.0\repeticao_05.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\07_laco_repeticao\repeticao_05\obj\Debug\net7.0\repeticao_05.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\07_laco_repeticao\repeticao_05\obj\Debug\net7.0\refint\repeticao_05.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\07_laco_repeticao\repeticao_05\obj\Debug\net7.0\repeticao_05.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\07_laco_repeticao\repeticao_05\obj\Debug\net7.0\repeticao_05.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\07_laco_repeticao\repeticao_05\obj\Debug\net7.0\ref\repeticao_05.dll

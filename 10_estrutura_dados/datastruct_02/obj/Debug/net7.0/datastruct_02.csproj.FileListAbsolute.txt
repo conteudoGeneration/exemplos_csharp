@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\10_estrutura_dados\datastruct_02\bin\Debug\net7.0\datastruct_02.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\10_estrutura_dados\datastruct_02\bin\Debug\net7.0\datastruct_02.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\10_estrutura_dados\datastruct_02\bin\Debug\net7.0\datastruct_02.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\10_estrutura_dados\datastruct_02\bin\Debug\net7.0\datastruct_02.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\10_estrutura_dados\datastruct_02\bin\Debug\net7.0\datastruct_02.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\10_estrutura_dados\datastruct_02\obj\Debug\net7.0\datastruct_02.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\10_estrutura_dados\datastruct_02\obj\Debug\net7.0\datastruct_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\10_estrutura_dados\datastruct_02\obj\Debug\net7.0\datastruct_02.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\10_estrutura_dados\datastruct_02\obj\Debug\net7.0\datastruct_02.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\10_estrutura_dados\datastruct_02\obj\Debug\net7.0\datastruct_02.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\10_estrutura_dados\datastruct_02\obj\Debug\net7.0\datastruct_02.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\10_estrutura_dados\datastruct_02\obj\Debug\net7.0\refint\datastruct_02.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\10_estrutura_dados\datastruct_02\obj\Debug\net7.0\datastruct_02.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\10_estrutura_dados\datastruct_02\obj\Debug\net7.0\datastruct_02.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\10_estrutura_dados\datastruct_02\obj\Debug\net7.0\ref\datastruct_02.dll

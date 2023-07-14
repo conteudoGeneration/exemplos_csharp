@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\04_entrada_saida\entrada_saida_01\bin\Debug\net7.0\entrada_saida_01.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\04_entrada_saida\entrada_saida_01\bin\Debug\net7.0\entrada_saida_01.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\04_entrada_saida\entrada_saida_01\bin\Debug\net7.0\entrada_saida_01.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\04_entrada_saida\entrada_saida_01\bin\Debug\net7.0\entrada_saida_01.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\04_entrada_saida\entrada_saida_01\bin\Debug\net7.0\entrada_saida_01.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\04_entrada_saida\entrada_saida_01\obj\Debug\net7.0\entrada_saida_01.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\04_entrada_saida\entrada_saida_01\obj\Debug\net7.0\entrada_saida_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\04_entrada_saida\entrada_saida_01\obj\Debug\net7.0\entrada_saida_01.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\04_entrada_saida\entrada_saida_01\obj\Debug\net7.0\entrada_saida_01.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\04_entrada_saida\entrada_saida_01\obj\Debug\net7.0\entrada_saida_01.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\04_entrada_saida\entrada_saida_01\obj\Debug\net7.0\entrada_saida_01.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\04_entrada_saida\entrada_saida_01\obj\Debug\net7.0\refint\entrada_saida_01.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\04_entrada_saida\entrada_saida_01\obj\Debug\net7.0\entrada_saida_01.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\04_entrada_saida\entrada_saida_01\obj\Debug\net7.0\entrada_saida_01.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\04_entrada_saida\entrada_saida_01\obj\Debug\net7.0\ref\entrada_saida_01.dll

@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\helloworld\bin\Debug\net7.0\helloworld.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\helloworld\bin\Debug\net7.0\helloworld.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\helloworld\bin\Debug\net7.0\helloworld.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\helloworld\bin\Debug\net7.0\helloworld.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\helloworld\bin\Debug\net7.0\helloworld.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\helloworld\obj\Debug\net7.0\helloworld.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\helloworld\obj\Debug\net7.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\helloworld\obj\Debug\net7.0\helloworld.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\helloworld\obj\Debug\net7.0\helloworld.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\helloworld\obj\Debug\net7.0\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\helloworld\obj\Debug\net7.0\helloworld.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\helloworld\obj\Debug\net7.0\refint\helloworld.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\helloworld\obj\Debug\net7.0\helloworld.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\helloworld\obj\Debug\net7.0\helloworld.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\helloworld\obj\Debug\net7.0\ref\helloworld.dll

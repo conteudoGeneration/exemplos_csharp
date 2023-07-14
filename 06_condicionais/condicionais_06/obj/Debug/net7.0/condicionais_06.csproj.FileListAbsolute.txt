@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\06_condicionais\condicionais_06\bin\Debug\net7.0\condicionais_06.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\06_condicionais\condicionais_06\bin\Debug\net7.0\condicionais_06.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\06_condicionais\condicionais_06\bin\Debug\net7.0\condicionais_06.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\06_condicionais\condicionais_06\bin\Debug\net7.0\condicionais_06.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\06_condicionais\condicionais_06\bin\Debug\net7.0\condicionais_06.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\06_condicionais\condicionais_06\obj\Debug\net7.0\condicionais_06.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\06_condicionais\condicionais_06\obj\Debug\net7.0\condicionais_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\06_condicionais\condicionais_06\obj\Debug\net7.0\condicionais_06.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\06_condicionais\condicionais_06\obj\Debug\net7.0\condicionais_06.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\06_condicionais\condicionais_06\obj\Debug\net7.0\condicionais_06.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\06_condicionais\condicionais_06\obj\Debug\net7.0\condicionais_06.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\06_condicionais\condicionais_06\obj\Debug\net7.0\refint\condicionais_06.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\06_condicionais\condicionais_06\obj\Debug\net7.0\condicionais_06.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\06_condicionais\condicionais_06\obj\Debug\net7.0\condicionais_06.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\06_condicionais\condicionais_06\obj\Debug\net7.0\ref\condicionais_06.dll

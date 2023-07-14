@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\08_array\array_07\bin\Debug\net7.0\array_07.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\08_array\array_07\bin\Debug\net7.0\array_07.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\08_array\array_07\bin\Debug\net7.0\array_07.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\08_array\array_07\bin\Debug\net7.0\array_07.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\08_array\array_07\bin\Debug\net7.0\array_07.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\08_array\array_07\obj\Debug\net7.0\array_07.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\08_array\array_07\obj\Debug\net7.0\array_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\08_array\array_07\obj\Debug\net7.0\array_07.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\08_array\array_07\obj\Debug\net7.0\array_07.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\08_array\array_07\obj\Debug\net7.0\array_07.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\08_array\array_07\obj\Debug\net7.0\array_07.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\08_array\array_07\obj\Debug\net7.0\refint\array_07.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\08_array\array_07\obj\Debug\net7.0\array_07.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\08_array\array_07\obj\Debug\net7.0\array_07.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\08_array\array_07\obj\Debug\net7.0\ref\array_07.dll

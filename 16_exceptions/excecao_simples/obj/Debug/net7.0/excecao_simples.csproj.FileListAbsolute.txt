@@ -1,0 +1,15 @@
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\excecao_simples\bin\Debug\net7.0\excecao_simples.exe
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\excecao_simples\bin\Debug\net7.0\excecao_simples.deps.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\excecao_simples\bin\Debug\net7.0\excecao_simples.runtimeconfig.json
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\excecao_simples\bin\Debug\net7.0\excecao_simples.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\excecao_simples\bin\Debug\net7.0\excecao_simples.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\excecao_simples\obj\Debug\net7.0\excecao_simples.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\excecao_simples\obj\Debug\net7.0\excecao_simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\excecao_simples\obj\Debug\net7.0\excecao_simples.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\excecao_simples\obj\Debug\net7.0\excecao_simples.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\excecao_simples\obj\Debug\net7.0\excecao_simples.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\excecao_simples\obj\Debug\net7.0\excecao_simples.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\excecao_simples\obj\Debug\net7.0\refint\excecao_simples.dll
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\excecao_simples\obj\Debug\net7.0\excecao_simples.pdb
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\excecao_simples\obj\Debug\net7.0\excecao_simples.genruntimeconfig.cache
+C:\Users\rafae\OneDrive\Área de Trabalho\csharp\cookbook\16_exceptions\excecao_simples\obj\Debug\net7.0\ref\excecao_simples.dll
