@@ -1,5 +1,3 @@
-﻿using Microsoft.VisualBasic;
-
 namespace entrada_saida_02
 {
     internal class Program
